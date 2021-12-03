@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/dade-ca/fixed-bond-ui/static/js/main.892a4f37.chunk.js",
+    "main.js.map": "/dade-ca/fixed-bond-ui/static/js/main.892a4f37.chunk.js.map",
+    "runtime-main.js": "/dade-ca/fixed-bond-ui/static/js/runtime-main.a60f761d.js",
+    "runtime-main.js.map": "/dade-ca/fixed-bond-ui/static/js/runtime-main.a60f761d.js.map",
+    "static/js/2.276fb030.chunk.js": "/dade-ca/fixed-bond-ui/static/js/2.276fb030.chunk.js",
+    "static/js/2.276fb030.chunk.js.map": "/dade-ca/fixed-bond-ui/static/js/2.276fb030.chunk.js.map",
+    "static/js/3.0ecf7577.chunk.js": "/dade-ca/fixed-bond-ui/static/js/3.0ecf7577.chunk.js",
+    "static/js/3.0ecf7577.chunk.js.map": "/dade-ca/fixed-bond-ui/static/js/3.0ecf7577.chunk.js.map",
+    "index.html": "/dade-ca/fixed-bond-ui/index.html",
+    "static/js/2.276fb030.chunk.js.LICENSE.txt": "/dade-ca/fixed-bond-ui/static/js/2.276fb030.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a60f761d.js",
+    "static/js/2.276fb030.chunk.js",
+    "static/js/main.892a4f37.chunk.js"
+  ]
+}
